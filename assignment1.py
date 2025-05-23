@@ -1,9 +1,9 @@
 # Initial inventory (item: quantity)
 inventory = {
-    "Pencils": 10,
-    "Notebooks": 5,
-    "Erasers": 7,
-    "Markers": 3
+    "Keyboards": 30,
+    "Adaptors": 25,
+    "Laptops": 50,
+    "Books": 100
 }
 
 # Display current inventory
